@@ -1,4 +1,4 @@
-# hello-worid
+# hello-world
 This is my first repository
 #include <stdio.h>
 int main(void)
